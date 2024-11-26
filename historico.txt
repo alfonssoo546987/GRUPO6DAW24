@@ -1,0 +1,19 @@
+Integrante 1 (Alfonso Ismael Manzano Rodríguez):
+
+1. Creado proyecto en GitHub e invitación demás integrantes del proyecto.
+2. Subida de los archivos de la vista (carpeta /app/templates) y los de Fron-end (web/css + web/js + web/images).
+3. Subida de archivo valoraciones.txt.
+
+Integrante 2 (Carlos Méndez Sánchez):
+
+1. Creada la base de datos alimentos62024.
+2. Creadas tablas mediante phpMyAdmin.
+3. El integrante 2 intento realizar la subida del proyecto mediante SSH y los comandos de Git, resultando en un error.
+Por lo que se decanto por subirlo directamente al hosting mediante FTP.
+4. Subida de archivo instalacion.txt.
+
+Integrante 3 (Eduardo Martínez Vázquez):
+1. Debido a la solución aplicada por el integrante 2, el integrante 3 tampoco ha podido realizar su trabajo mediante Git.
+2. Configuración de archivo Config.php con los datos de la base de datos.
+3. Subida de archivos de control frontal, clase controlador y configuración (web/index.php + app/Controller.php + app/Config.php).
+4. Subida de archivo historico.txt.
