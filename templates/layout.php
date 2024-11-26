@@ -15,12 +15,11 @@
              <hr/>
              <a href="index.php?ctl=inicio">inicio</a> |
              <a href="index.php?ctl=listar">ver alimentos</a> |
+             <a href="index.php?ctl=insertar">insertar alimento</a> |
              <a href="index.php?ctl=buscar">buscar por nombre</a> |
              <a href="index.php?ctl=buscarE">buscar por energia</a> |
              <a href="index.php?ctl=buscarAlimentosCombinada">búsqueda combinada</a> |
-             <a href="index.php?ctl=wiki">wikialimentos</a> |
-             <a href="index.php?ctl=login">Login</a> |
-             <a href="index.php?ctl=registro">Registro</a>
+						 <a href="index.php?ctl=wiki">wikialimentos</a>
              <hr/>
          </div>
 
