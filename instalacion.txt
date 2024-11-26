@@ -1,0 +1,9 @@
+Para la creacion de la base de datos he entrado en el servicio de hosting
+> MySQL y he creado la base alimentos62024. A través de ssh he introducido:
+ssh carlosme9e@134.0.14.128, es decir, usuario de ssh y direccion IP.
+Una vez iniciado sesión he realizado un clone del repositorio de github
+git clone https://github.com/CarlosMendezSanchez/GRUPO6DAW24.git. Todo esto
+porque he realizado un fork del repositorio de Alfonso. Luego en el repositorio
+de Alfonso he realizado un clone, he creado una rama llamada ramacarlos
+el comando utilizado ha sido git branch ramacarlos, git checkout ramacarlos para
+cambiar a la rama y subir este archivo. Con git push se subirán los cambios.
