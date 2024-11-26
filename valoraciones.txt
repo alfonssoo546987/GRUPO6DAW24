@@ -1,0 +1,8 @@
+Valoraciones Carlos Mendez y Eduardo Martínez Vázquez:
+- Problemas durante la realización del "clone" a causa de problemas de funcionamiento GitHUb. Solución: Subida de archivos vía FTP.
+
+Valoraciones Eduardo Martínez Vázquez:
+Los datos para la edición del archivo "config.php" no generaron problemas.
+Valoraciones Alfonso Ismael Manzano Rodríguez:
+
+- La creación de la rama "rama2" finálmente no fue necesaria.
